@@ -1,9 +1,19 @@
 # WIT-website
 
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+<div align="center">
+  <img src="http://ForTheBadge.com/images/badges/uses-html.svg">
+  <img src="http://ForTheBadge.com/images/badges/uses-css.svg">
+  <img src="http://ForTheBadge.com/images/badges/uses-js.svg">
+</div>
 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/WEBSITE-ONLINE-green.svg">
+</div>
+
+<div align="center">
+  <a href="https://distracted-perlman-812ffe.netlify.app" target="_blank"><img src="https://img.shields.io/badge/DEPLOY WITH-NETLIFY-blue.svg"></a>
+</div>
 
 A small contribution to make a difference in the world by enabling women's empowerment in tech through leadership development, professional growth, mentorship and networking events for professionals.
 
