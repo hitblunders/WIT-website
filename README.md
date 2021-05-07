@@ -30,7 +30,7 @@ One of the major challenges was the time constraint(in the hackathon) and I had 
 
 **Future Scopes**
 
-1. Improve the backend.
+ - Improve the backend.
 
-2. I hope tp expand our website further and build an app based on it.
+ - I hope tp expand our website further and build an app based on it.
 
