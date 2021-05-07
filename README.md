@@ -16,7 +16,9 @@ The website is built using HTML, CSS, JavaScript, Jquery, Bootstrap and PHP, Exp
 
 One of the major challenges was the time constraint(in the hackathon) and I had to build the project from scratch. Also, all of my teammembers(and even me) were first time hackers, so it took us some time to learn and then implement the functionalities.
 
-**Future Scope**
+**Future Scopes**
 
-I hope tp expand our website further and build an app based on it.
+1. Improve the backend.
+
+2. I hope tp expand our website further and build an app based on it.
 
