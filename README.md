@@ -31,13 +31,3 @@ It provide all the resources for enhancing the user's coding skills. It also kee
 
 The website is built using HTML, CSS, JavaScript, Jquery, Bootstrap and PHP, ExpressJs and MySQL.
 
-**Challenges I ran into**
-
-One of the major challenges was the time constraint(in the hackathon). I had to build the project from scratch. Also, all of my team members(and even me) were first time hackers, so it took us some time to learn and then implement the functionalities.
-
-**Future Scopes**
-
- - Improve the backend.
-
- - I hope tp expand our website further and build an app based on it.
-
