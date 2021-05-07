@@ -1,6 +1,8 @@
 # WIT-website
-
-
+<div align=”center”>
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+<div>
 **Inspiration**
 
 A small contribution to make a difference in the world by enabling women's empowerment in tech through leadership development, professional growth, mentorship and networking events for professionals.
