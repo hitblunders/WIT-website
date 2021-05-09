@@ -25,7 +25,7 @@ A small contribution to make a difference in the world by enabling women's empow
 
 **What it does**
 
-It provide all the resources for enhancing the user's coding skills. It also keep the user updated with the upcoming competitions and hackathons.
+It provides all the resources for enhancing the user's coding skills. It also keep the user updated with the upcoming competitions and hackathons.
 
 **How it was built**
 
